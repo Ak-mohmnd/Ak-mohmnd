@@ -23,9 +23,9 @@
 </div>
 
 <p align="center">
-  I’m a results-driven <b>Senior QA Test Engineer</b> with <b>4.5+ years</b> of expertise in manual and automation testing.<br>
-  Specialized in <b>Web3, AI-driven Chatbots, Blockchain Apps, and Chrome Extensions</b> with a focus on scalability, performance, and seamless user experiences.<br>
-  Currently expanding my skillset in <b>DevOps</b> to build robust CI/CD pipelines and test automation frameworks at scale.
+  Results-driven <b>Software Engineering graduate</b> with <b>4.5 years</b> of experience in <b>Software Quality Assurance</b> across Blockchain, Web3, AI solutions, CRM systems, and microservices.<br>
+  Skilled in <b>manual and automation testing</b> using <b>Playwright, Cypress, and Selenium</b>, with strong expertise in blockchain transactions, wallets, tokens, and NFTs.<br>
+  Proven ability to <b>refine QA processes, resolve workflow challenges, and lead Agile-driven initiatives</b> to ensure high-quality, business-aligned deliverables.
 </p>
 
 <br>
@@ -71,32 +71,39 @@
 
 <div align="center">
 
-### Automation Frameworks  
+### 🤖 Automation Frameworks  
 <img src="https://skillicons.dev/icons?i=javascript,typescript,python&theme=dark" />  
 **Cypress • Playwright • Selenium • Robot Framework**
 
-<br>
+<br><br>
 
-### API & Performance Testing  
+### 🚀 API & Performance Testing  
 <img src="https://skillicons.dev/icons?i=postman&theme=dark" />  
 **Postman • Swagger • JMeter • GT Matrix**
 
-<br>
+<br><br>
 
-### Databases  
+### 🗄️ Databases  
 <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />  
-**MySQL • AWS RDS**
+**MySQL • MongoDB • AWS RDS**
 
-<br>
+<br><br>
 
-### CI/CD & Tools  
+### ⚙️ CI/CD & Version Control  
 <img src="https://skillicons.dev/icons?i=github,git,gitlab,jenkins&theme=dark" />  
-**GitHub Actions • BitBucket • Jenkins • Trello • Azure DevOps**
+**GitHub Actions • GitLab CI • BitBucket • Jenkins**
 
-<br>
+<br><br>
 
-### Collaboration & Reporting  
-**Jira • TestRail • Rapid Reporter • Keybase • Slack • Teams • Discord**
+### 🔧 Development Tools  
+<img src="https://skillicons.dev/icons?i=azure,docker&theme=dark" />  
+**Azure DevOps • Docker • Trello**
+
+<br><br>
+
+### 💬 Collaboration & Reporting  
+**Jira • TestRail • Rapid Reporter • Keybase**  
+**Slack • Microsoft Teams • Discord**
 
 </div>
 
