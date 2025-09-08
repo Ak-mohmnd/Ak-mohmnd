@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=300&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=QA%20Lead%20Engineer%20%7C%20Manual%20%2B%20Automation%20Tester&descAlignY=54&descAlign=79" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=300&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20QA%20Test%20Engineer&descAlignY=54&descAlign=79" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=4ECDC4&center=true&vCenter=true&width=800&height=70&lines=Hey+there!+👋+I'm+M+Abbas+Khan;QA+Lead+Engineer+%7C+Manual+%2B+Automation;From+Islamabad%2C+Pakistan+🇵🇰;Passionate+About+Quality+Engineering;Currently+Exploring+DevOps+🚀" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=4ECDC4&center=true&vCenter=true&width=800&height=70&lines=Hey+there!+👋+I'm+M+Abbas+Khan;Senior+QA+Test+Engineer;From+Islamabad%2C+Pakistan+🇵🇰;Passionate+About+Quality+Engineering;Currently+Exploring+DevOps+🚀" alt="Typing Animation" />
 </div>
 
 <br>
@@ -61,8 +61,7 @@
   <a href="https://www.linkedin.com/in/akmohmnd1" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <!-- Replace with your real email if you want -->
-  <a href="mailto:your-email@example.com" target="_blank">
+  <a href="mailto:ak.mohmnd@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
