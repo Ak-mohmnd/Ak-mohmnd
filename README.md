@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=4ECDC4&center=true&vCenter=true&width=600&height=70&lines=Hey+there!+👋+I'm+M+Abbas+Khan;Senior+QA+Test+Engineer;From+Islamabad%2C+Pakistan+🇵🇰;Passionate+About+Software+Quality+Engineering;Currently+Exploring+DevOps+🚀" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=4ECDC4&center=true&vCenter=true&width=600&height=70&lines=Hey+there!+👋+I'm+M+Abbas+Khan;Senior+QA+Test+Engineer;From+Islamabad%2C+Pakistan;Passionate+About+Software+Quality+Engineering;Currently+Exploring+DevOps+🚀" alt="Typing Animation" />
 </div>
 
 <br>
